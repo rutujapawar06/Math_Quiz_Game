@@ -3,8 +3,8 @@ import random
 import time
 
 OPERATORS = ["+", "-", "*"]
-MIN_OPERAND = 3
-MAX_OPERAND = 12
+MIN_OPERAND = 0
+MAX_OPERAND = 20
 TOTAL_PROBLEMS = 15
 
 def generate_problem():
