@@ -5,7 +5,7 @@ import time
 OPERATORS = ["+", "-", "*"]
 MIN_OPERAND = 3
 MAX_OPERAND = 12
-TOTAL_PROBLEMS = 5
+TOTAL_PROBLEMS = 15
 
 def generate_problem():
     left = random.randint(MIN_OPERAND, MAX_OPERAND)
